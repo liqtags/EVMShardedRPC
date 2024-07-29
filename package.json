@@ -29,5 +29,10 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@ethereumjs/tx": "^5.3.0",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "keccak256": "^1.0.6",
+    "web3": "^4.11.1"
   }
 }
