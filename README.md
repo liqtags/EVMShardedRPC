@@ -1,1 +1,1 @@
-# Liqtags Namespace Package Starter
+# @liqtags/evm-sharded-rpc
